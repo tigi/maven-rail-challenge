@@ -1,0 +1,65 @@
+Route,From,To,from_lat,from_lon,to_lat,to_lon
+"London Paddington - Liverpool","London Paddington","Liverpool",51.5154139,-0.178068,53.4083337,-2.9815642
+"London Kings Cross - Liverpool","London Kings Cross","Liverpool",51.5306898,-0.12593,53.4083337,-2.9815642
+"Manchester - Liverpool","Manchester","Liverpool",53.4773449,-2.2336225,53.4083337,-2.9815642
+"London Euston - Birmingham","London Euston","Birmingham",51.527652,-0.1379571,52.47815,-1.89896
+"London St Pancras - Birmingham","London St Pancras","Birmingham",51.5311195,-0.1284408,52.47815,-1.89896
+"London Paddington - Reading","London Paddington","Reading",51.5154139,-0.178068,51.458729,-0.9744356
+"Oxford - Bristol","Oxford","Bristol",51.7534727,-1.2725203,51.44859,-2.58279
+"London Paddington - London Waterloo","London Paddington","London Waterloo",51.5154139,-0.178068,51.503125,-0.1155242
+"London Paddington - Oxford","London Paddington","Oxford",51.5154139,-0.178068,51.7534727,-1.2725203
+"London Euston - Oxford","London Euston","Oxford",51.527652,-0.1379571,51.7534727,-1.2725203
+"Birmingham - London St Pancras","Birmingham","London St Pancras",52.47815,-1.89896,51.5311195,-0.1284408
+"Birmingham - Manchester","Birmingham","Manchester",52.47815,-1.89896,53.4773449,-2.2336225
+"Liverpool - Manchester","Liverpool","Manchester",53.4083337,-2.9815642,53.4773449,-2.2336225
+"London Euston - Manchester","London Euston","Manchester",51.527652,-0.1379571,53.4773449,-2.2336225
+"Birmingham - Tamworth","Birmingham","Tamworth",52.47815,-1.89896,52.6373661,-1.6896608
+"York - Doncaster","York","Doncaster",53.9579841,-1.0935676,53.5221016,-1.1417194
+"Birmingham - Stafford","Birmingham","Stafford",52.47815,-1.89896,52.803875,-2.1246966
+"York - Durham","York","Durham",53.9579841,-1.0935676,54.7019039,-1.6887184
+"Birmingham - London Euston","Birmingham","London Euston",52.47815,-1.89896,51.527652,-0.1379571
+"Liverpool - London Euston","Liverpool","London Euston",53.4083337,-2.9815642,51.527652,-0.1379571
+"Manchester - London Euston","Manchester","London Euston",53.4773449,-2.2336225,51.527652,-0.1379571
+"York - Edinburgh","York","Edinburgh",53.9579841,-1.0935676,55.9524126,-3.1931723
+"London Kings Cross - York","London Kings Cross","York",51.5306898,-0.12593,53.9579841,-1.0935676
+"London Euston - York","London Euston","York",51.527652,-0.1379571,53.9579841,-1.0935676
+"Liverpool - Leeds","Liverpool","Leeds",53.4083337,-2.9815642,53.7949752,-1.5499656
+"Manchester - Leeds","Manchester","Leeds",53.4773449,-2.2336225,53.7949752,-1.5499656
+"Manchester - London Paddington","Manchester","London Paddington",53.4773449,-2.2336225,51.5154139,-0.178068
+"Manchester - Nottingham","Manchester","Nottingham",53.4773449,-2.2336225,52.9470362,-1.1488831
+"York - Peterborough","York","Peterborough",53.9579841,-1.0935676,52.5744804,-0.2523866
+"Manchester - Sheffield","Manchester","Sheffield",53.4773449,-2.2336225,53.3782545,-1.4652449
+"Reading - Swindon","Reading","Swindon",51.458729,-0.9744356,51.5655679,-1.787433
+"London St Pancras - Wolverhampton","London St Pancras","Wolverhampton",51.5311195,-0.1284408,52.5877766,-2.1234935
+"Reading - London Paddington","Reading","London Paddington",51.458729,-0.9744356,51.5154139,-0.178068
+"Liverpool - Crewe","Liverpool","Crewe",53.4083337,-2.9815642,53.0895517,-2.4362
+"Manchester - London Kings Cross","Manchester","London Kings Cross",53.4773449,-2.2336225,51.5306898,-0.12593
+"London St Pancras - Leicester","London St Pancras","Leicester",51.5311195,-0.1284408,52.631192,-1.1277033
+"Birmingham - Nuneaton","Birmingham","Nuneaton",52.47815,-1.89896,52.5262325,-1.4690412
+"Birmingham - Reading","Birmingham","Reading",52.47815,-1.89896,51.458729,-0.9744356
+"York - Birmingham","York","Birmingham",53.9579841,-1.0935676,52.47815,-1.89896
+"Reading - Didcot","Reading","Didcot",51.458729,-0.9744356,51.6119182,-1.2479019
+"Reading - Oxford","Reading","Oxford",51.458729,-0.9744356,51.7534727,-1.2725203
+"Birmingham - Liverpool","Birmingham","Liverpool",52.47815,-1.89896,53.4083337,-2.9815642
+"London Kings Cross - Edinburgh","London Kings Cross","Edinburgh",51.5306898,-0.12593,55.9524126,-3.1931723
+"Manchester - York","Manchester","York",53.4773449,-2.2336225,53.9579841,-1.0935676
+"Liverpool - London St Pancras","Liverpool","London St Pancras",53.4083337,-2.9815642,51.5311195,-0.1284408
+"Edinburgh - London Kings Cross","Edinburgh","London Kings Cross",55.9524126,-3.1931723,51.5306898,-0.12593
+"Liverpool - Sheffield","Liverpool","Sheffield",53.4083337,-2.9815642,53.3782545,-1.4652449
+"Birmingham - Edinburgh","Birmingham","Edinburgh",52.47815,-1.89896,55.9524126,-3.1931723
+"Birmingham - London Paddington","Birmingham","London Paddington",52.47815,-1.89896,51.5154139,-0.178068
+"Birmingham - York","Birmingham","York",52.47815,-1.89896,53.9579841,-1.0935676
+"Reading - Birmingham","Reading","Birmingham",51.458729,-0.9744356,52.47815,-1.89896
+"Manchester - London St Pancras","Manchester","London St Pancras",53.4773449,-2.2336225,51.5311195,-0.1284408
+"Birmingham - Coventry","Birmingham","Coventry",52.47815,-1.89896,52.401062,1.5162079
+"York - Leeds","York","Leeds",53.9579841,-1.0935676,53.7949752,-1.5499656
+"Reading - Liverpool","Reading","Liverpool",51.458729,-0.9744356,53.4083337,-2.9815642
+"London Paddington - Manchester","London Paddington","Manchester",51.5154139,-0.178068,53.4773449,-2.2336225
+"Liverpool - London Paddington","Liverpool","London Paddington",53.4083337,-2.9815642,51.5154139,-0.178068
+"Birmingham - London Kings Cross","Birmingham","London Kings Cross",52.47815,-1.89896,51.5306898,-0.12593
+"Birmingham - Wolverhampton","Birmingham","Wolverhampton",52.47815,-1.89896,52.5877766,-2.1234935
+"York - Wakefield","York","Wakefield",53.9579841,-1.0935676,53.6737621,-1.4957909
+"York - Liverpool","York","Liverpool",53.9579841,-1.0935676,53.4083337,-2.9815642
+"Bristol - Cardiff","Bristol","Cardiff",51.44859,-2.58279,51.47918,-3.16674
+"Liverpool - Birmingham","Liverpool","Birmingham",53.4083337,-2.9815642,52.47815,-1.89896
+"Manchester - Warrington","Manchester","Warrington",53.4773449,-2.2336225,53.3920824,-2.5949598
